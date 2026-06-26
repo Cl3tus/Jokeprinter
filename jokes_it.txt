@@ -1,0 +1,221 @@
+Why do programmers prefer dark mode? Because light attracts bugs.
+A SQL query walks into a bar, walks up to two tables and asks "Can I join you?"
+Why do Java developers wear glasses? Because they don't C#.
+How many programmers does it take to change a light bulb? None, that's a hardware problem.
+Why was the JavaScript developer sad? Because he didn't know how to null his feelings.
+A programmer's wife tells him: "Go to the store and get a gallon of milk, and if they have eggs, get a dozen." He comes home with 12 gallons of milk.
+Why did the programmer quit his job? Because he didn't get arrays.
+What do you call a programmer from Finland? Nerdic.
+Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25.
+What's a programmer's favorite hangout place? Foo Bar.
+Why did the developer go broke? Because he used up all his cache.
+What do you call a programmer who doesn't comment their code? A mystery novelist.
+Why was the function so sad? It had too many arguments.
+What did the router say to the doctor? It hurts when IP.
+Why do programmers hate nature? It has too many bugs and no documentation.
+What's the object-oriented way to become wealthy? Inheritance.
+Why did the programmer get kicked out of school? Because he kept breaking the class.
+What do you call a programmer who doesn't sleep? A runtime error.
+What's a computer's favorite snack? Microchips.
+Why did the developer break up with the designer? Too many conflicts to merge.
+What do you call 8 hobbits? A hobbyte.
+Why did the computer crash the wedding? Because it had too many cookies.
+What's a programmer's favorite movie? The Bourne Exception.
+Why don't programmers like to go outside? The sun causes too much glare on the screen.
+What do you call a programmer who only writes bugs? A feature developer.
+Why did the agile team go to therapy? They had too many sprints and not enough rest.
+What does a baby computer call its father? Data.
+Why did the developer stare at the orange juice? Because it said "concentrate."
+What do you call a programmer's dog? A pointer.
+Why did Git break up with the developer? Because of too many conflicts.
+What's a pirate's favorite programming language? Rrrr!
+Why did the computer go to art school? Because it wanted to learn how to draw a window.
+What do you call a programmer who can't stop refactoring? An abstract artist.
+Why did the Python programmer get kicked out of school? Because he kept trying to import cheats.
+What do you call a Java developer who can't find his keys? Lost in null pointer exception.
+Why do programmers wear glasses? Because they have too many tabs open.
+Why was the database administrator so good at relationships? Because he knew all about foreign keys.
+What's a programmer's favorite type of music? Algo-rhythm.
+Why did the cloud go to school? To get a little more storage.
+What do you call a programmer who works at a bakery? A batch processor.
+Why did the programmer get lost in the forest? Because he couldn't find the root directory.
+What's a network engineer's favorite song? Router and the Beast.
+Why did the React developer quit? Because he lost his state of mind.
+What do you call a Linux user at a party? The one standing in the corner compiling.
+Why did the blockchain developer never finish his project? He kept forking around.
+Why did the coder get a sunburn? He forgot to close his loops outside.
+What do you call a programmer who can't stop optimizing? Premature.
+Why was the algorithm sad? Because nobody understood its complexity.
+What do you call a programmer who drinks too much coffee? A Java junkie.
+Why did the developer go to the beach? To surf the web.
+Why do programmers always confuse left and right? Because right is wrong and left is what's left.
+What do you call an AI that sings? Alexa-ndria.
+Why was the software update so unpopular? Because it broke everything that was working fine.
+Why did the developer refuse to play cards? Because he was afraid of stack overflow.
+What do you call a type error at 3am? A nightmare.
+Why did the robot fail the test? Because it had too many bugs in its firmware.
+Why did the developer always carry an umbrella? Because of all the cloud computing.
+What do you call a very small bug? A microbe. Or as management calls it, a feature.
+Why did the programmer go to therapy? He had too many unresolved issues.
+What do you call a group of programmers? A merge conflict.
+Why did the computer science student fail the exam? Because he kept hitting F5.
+Why did the developer hate vegetables? Because he didn't like to work with roots.
+What do you call a computer that sings? A Dell.
+Why did the programmer always walk around with a notebook? To document all his steps.
+What do you call bad documentation? A mystery novel.
+Why did the QA engineer get fired? Because he kept breaking things on purpose.
+What do you call a function that does too much? A monolith.
+Why did the robot go to school? To improve its machine learning.
+What do you call a programmer who doesn't use version control? Brave. Or stupid.
+Why did the binary tree therapist fail? It kept getting to the root of every problem.
+What do you call a programmer who only works at night? A dark mode developer.
+Why did the developer go to jail? For escaping too many characters.
+What do you call a variable that never changes? A constant disappointment.
+Why was the API so popular at parties? Because it always had the right endpoints.
+What do you call a microservice that does everything? A monolith in disguise.
+Why did the programmer always bring a ladder to work? To reach the higher-level languages.
+Why did the developer refuse to swim? Because he was afraid of the deep web.
+What do you call a pair programmer who never talks? A rubber duck.
+Why did the JavaScript developer keep falling asleep? Because he had too many callbacks.
+What do you call a programmer's nightmare? Undefined behavior.
+Why did the developer get lost? His GPS had a null pointer exception.
+What do you call an AI that tells jokes? A stand-up algorithm.
+Why did the programmer hate stairs? Because he preferred to use recursive functions.
+What do you call a very fast programmer? A sprint developer.
+Why did the database go to the gym? To improve its indexing.
+Why did the developer always wear a hat? To protect from the stack overflow.
+What do you call a programmer who builds walls? A firewall developer.
+Why was the recursive function so lonely? Because it kept calling itself.
+What do you call a computer science degree? An expensive way to learn to Google things.
+Why did the developer cry at the movie? Because the main character had an unhandled exception.
+What do you call a programmer who loves puzzles? Someone with too many edge cases.
+Why did the server go to the gym? To get more reps.
+What do you call a programmer who can't stop talking? A verbose coder.
+Why did the CSS developer go crazy? Because he lost control of the float.
+What do you call an empty class? Abstract.
+Why did the developer order salad? Because he wanted a byte without the bloat.
+What do you call a sleeping server? A nap-plication server.
+Why did the junior dev get promoted? Because he pushed to production on a Friday and nothing broke.
+What do you call a program that never finishes? Windows Update.
+Why did the tech lead cry? Because someone deleted the master branch.
+What do you call a programmer's cat? Ctrl.
+Why did the sysadmin go to the beach? To work on his shell scripts.
+What do you call a broken keyboard? Un-typeable.
+Why did the developer name his son Firefox? He wanted to raise him in a good environment.
+What do you call a cold server room? A chilly bin.
+Why did the coder sleep on the keyboard? He wanted to get some Zs.
+What do you call a security hole in a spaceship? An aerospace vulnerability.
+Why did the developer hate clocks? Too much real-time processing.
+What do you call a programming language that makes you cry? Visual Basic.
+Why did the Rust developer feel safe? Because there were no null pointers.
+What do you call someone who writes PHP? A developer with very low standards.
+Why did the database commit suicide? It had too many relations and none of them worked out.
+What do you call a programmer who can't stop drinking? An alco-holic coder.
+Why did the HTML developer feel lonely? Because he had no body.
+What do you call a programmer who works on cars? A Java-nese engineer.
+Why did the developer keep refreshing the page? Because he heard changes were coming.
+What do you call a slow internet connection? A DSL of misery.
+Why did the programmer use dark mode at night? Because he didn't want to wake up his bugs.
+What do you call a programmer who hates whitespace? A minimalist.
+Why did the CSS developer always look confused? Because he couldn't figure out his position.
+What do you call a very long function? A scroll of shame.
+Why did the developer break up with his ORM? Too many abstraction layers between them.
+What do you call a bug that only appears in production? A feature.
+Why did the intern push directly to main? Because nobody told him not to.
+What do you call a programmer who loves gardening? Someone who enjoys growing his branches.
+Why did the compiler cry? Because it had too many errors to handle.
+What do you call a developer who doesn't test their code? A QA engineer's best friend.
+Why did the senior developer drink so much coffee? To keep his threads awake.
+What do you call a keyboard with no keys? A flat tire.
+Why did the programmer always wear headphones? To block out the context switches.
+What do you call a Python developer who only uses loops? A for-ever coder.
+Why did the Kubernetes cluster fall over? Too many pods and not enough replication.
+What do you call a programmer who quit his job? Unemployed or a consultant.
+Why did the developer refuse dessert? He was already full of stack.
+What do you call an agile team that ships on time? A myth.
+Why did the API go to therapy? Too many bad requests.
+What do you call a programmer who loves spreadsheets? An Excel-lent developer.
+Why did the developer name his boat SSH? Because it let him connect remotely.
+What do you call a programmer in a suit? The defendant.
+Why did the software architect cry? Because nobody understood his design patterns.
+What do you call a very angry merge conflict? A git-mares.
+Why did the junior dev always indent with spaces? Because he was afraid of tabs.
+What do you call a codebase nobody wants to touch? Legacy.
+Why did the Python developer go to church? He heard there was a lot of inheritance.
+What do you call a programmer who loves the ocean? A deep-sea diver into recursion.
+Why did the developer hate weekends? Because he had no support on Saturday and Sunday.
+What do you call a very fast algorithm? Quick-sort of impressive.
+Why did the frontend developer go to the doctor? He had too many div issues.
+What do you call an overcomplicated solution to a simple problem? Enterprise software.
+Why did the developer name his dog Localhost? Because he always came home.
+What do you call a programmer who can't decide? Someone stuck in an infinite loop.
+Why did the server go offline? It needed a mental health break.
+What do you call a programmer who loves winter? Someone who enjoys frozen states.
+Why did the JavaScript array feel empty? Because it was undefined.
+What do you call a developer who codes in the dark? A night-mode ninja.
+Why did the programmer put his phone in airplane mode? To stop the interrupts.
+What do you call a bad programmer who never gives up? Persistent.
+Why did the software tester cross the road? To see if it worked on the other side.
+What do you call a programmer who hates recursion? Someone who hates recursion.
+Why did the developer get a headache? Too many open tabs.
+What do you call a compiler that lies? A false positive machine.
+Why did the sysadmin go to the gym? To work on his uptime.
+What do you call a Python snake that codes? An anaconda developer.
+Why did the developer go to the eye doctor? Because he kept seeing null pointers.
+What do you call a very clean codebase? A legend.
+Why did the junior developer cry at lunch? Because he couldn't find the stack trace.
+What do you call a programmer's vacation? Offline mode.
+Why did the developer love autumn? Because he could finally drop the tables.
+What do you call a hacker who only steals time? A procrastinator.
+Why did the machine learning model fail? It overfit its feelings.
+What do you call a really good DevOps engineer? The one who doesn't wake you up at 3am.
+Why did the server feel lonely? Because it had no clients.
+What do you call a programmer who loves horror movies? Someone who enjoys runtime errors.
+Why did the old codebase smell? Because nobody had touched it in years.
+What do you call a very enthusiastic intern? A memory leak.
+Why did the app developer move to the mountains? To get away from the cloud.
+What do you call two databases in love? Relational.
+Why did the developer refuse the job at the cemetery? Too much deadcode.
+What do you call a programmer who can't stop working? Needs a segfault to stop.
+Why did the wifi keep dropping? It had commitment issues.
+What do you call a developer who loves the gym? Someone who lifts weights and heavy frameworks.
+Why did the programmer buy a boat? To ship his code faster.
+What do you call a very smart thermostat? An Internet of Things genius.
+Why did the developer hate the jungle? Too many dependency trees.
+What do you call a Windows XP fan? A nostalgic masochist.
+Why did the developer go to cooking class? To learn how to handle exceptions properly.
+What do you call a programmer who hates coffee? Decaffeinated and unemployed.
+Why did the software sprint end early? Someone accidentally set the velocity to undefined.
+What do you call a developer who never makes mistakes? A liar.
+Why did the programmer love autumn? Because of all the stack traces falling to the ground.
+What do you call a broken container? A Dock-error.
+Why did the developer stay home on Valentine's Day? He was already in a relationship with his IDE.
+What do you call a programmer who loves art? Someone who appreciates visual studio.
+Why did the machine refuse to learn? Because nobody labeled the training data correctly.
+What do you call a developer who ships on a Friday afternoon? Brave or reckless, same thing.
+Why did the programmer meditate? To achieve a state of inner peace before the deploy.
+What do you call a very small bug report? A micro-complaint.
+Why did the developer love jazz? Because of all the improvisation with undefined behavior.
+What do you call a codebase that actually has tests? A miracle.
+Why did the Linux user feel superior? He compiled his own happiness from source.
+What do you call an API that never responds? A REST in peace.
+Why did the robot feel misunderstood? Because nobody could read its binary emotions.
+What do you call a developer who loves puns? A pun-coder.
+Why did the stack feel overwhelmed? It had too much on its plate.
+What do you call an app with no users? A startup.
+Why did the programmer love the mountains? Because the peaks reminded him of the call stack.
+What do you call a very sleepy codebase? Dormant until someone touches it in production.
+Why did the developer hate the dentist? He drilled into his enamel without reading the docs.
+What do you call a software architect with no opinions? Unemployed.
+Why did the AI feel lonely? Because it only talked to itself during training.
+What do you call a programmer who loves chess? Someone who thinks in algorithms.
+Why did the developer love crossword puzzles? Because the answers always had a pattern.
+What do you call a codebase that only the original developer understands? Job security.
+Why did the programmer love gardening? Because he enjoyed pruning the decision trees.
+What do you call a very chatty log file? Verbose mode engaged.
+Why did the developer love the dictionary? Because it had key-value pairs.
+What do you call a programmer who always agrees? A yes-man with no merge conflicts.
+Why did the junior developer look confused? He was reading someone else's clever code.
+What do you call a very old programming language? COBOL.
+Why did the developer love hiking? Because every path eventually led to a solution.
+What do you call a programmer who hates meetings? A good programmer.

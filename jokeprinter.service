@@ -1,0 +1,13 @@
+[Unit]
+Description=Joke Printer
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/jokeprinter/jokeprinter.py
+WorkingDirectory=/home/jokeprinter
+Restart=always
+RestartSec=5
+User=jokeprinter
+
+[Install]
+WantedBy=multi-user.target
